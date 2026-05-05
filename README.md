@@ -1,8 +1,7 @@
 # Bienvenido a mi página
 
 ## ¿Quién soy?
-Soy **Agustin Oby**. 
-
+Soy **Agustin Oby**.
 🌱 En este momento estoy aprendiendo Front-end y Diseño Web 🚀
 
 <p align="center">
