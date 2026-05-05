@@ -2,6 +2,7 @@
 
 ## ¿Quién soy?
 Soy **Agustin Oby**. 
+
 🌱 En este momento estoy aprendiendo Front-end y Diseño Web 🚀
 
 <p align="center">
